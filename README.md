@@ -1,5 +1,5 @@
 # JDA_Project
-Tugas Akhir Jabar Digital Academy X Alkademi <br />
+Tugas Jabar Digital Academy X Alkademi <br />
 
 Nama		  : Annisa Hukmu Akmlany <br />
 Judul	  	: Artistic Shop (ArtShop) <br />
